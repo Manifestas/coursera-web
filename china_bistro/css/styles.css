@@ -85,6 +85,12 @@ body {
 
 /*********** Large devices only *********/
 @media (min-width: 1200px) {
+    .jumbotron {
+        background: url('../images/jumbotron_1200.jpg') no-repeat;
+        height: 675px;
+        box-shadow: 0 0 50px #3f0c1f;
+        border: 2px solid #3f0c1f;
+    }
 
 }
 
